@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Thu Sep 06 22:48:49 PDT 2018
+#Thu Sep 06 23:47:51 PDT 2018
 210.set=ANDROID_RESOURCE
 14.set=ANDROID_RESOURCE
 180.file=/Users/mimiliu/Desktop/Android Dev/material-design/XYZReader/build/intermediates/res/resources-debug.ap_/res/layout-v11/notification_media_cancel_action.xml
