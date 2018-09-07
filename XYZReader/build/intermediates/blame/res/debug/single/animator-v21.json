@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/mimiliu/Desktop/Android Dev/material-design/XYZReader/build/intermediates/res/merged/debug/animator-v21/fab_state_list_anim.xml",
+        "source": "/Users/mimiliu/Desktop/Android Dev/material-design/XYZReader/src/main/res/animator-v21/fab_state_list_anim.xml"
+    },
+    {
+        "merged": "/Users/mimiliu/Desktop/Android Dev/material-design/XYZReader/build/intermediates/res/merged/debug/animator-v21/design_appbar_state_list_animator.xml",
+        "source": "/Users/mimiliu/.android/build-cache/afe56b4fbaa213429a80117f277ca323f9b4ff4e/output/res/animator-v21/design_appbar_state_list_animator.xml"
+    }
+]
