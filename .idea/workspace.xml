@@ -29,25 +29,16 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="fragment_article_detail.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/XYZReader/src/main/res/layout/fragment_article_detail.xml">
+      <file leaf-file-name="activity_article_list.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/XYZReader/src/main/res/layout/activity_article_list.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="593">
-              <caret line="97" column="30" lean-forward="false" selection-start-line="97" selection-start-column="30" selection-end-line="97" selection-end-column="30" />
+            <state relative-caret-position="510">
+              <caret line="55" column="72" lean-forward="false" selection-start-line="55" selection-start-column="72" selection-end-line="55" selection-end-column="72" />
               <folding>
-                <element signature="e#949#977#0" expanded="true" />
-                <element signature="e#1147#1175#0" expanded="true" />
-                <element signature="e#1743#1774#0" expanded="true" />
-                <element signature="e#1793#3532#0" expanded="false" />
-                <element signature="e#2156#2190#0" expanded="true" />
-                <element signature="e#2232#2266#0" expanded="true" />
-                <element signature="e#2306#2342#0" expanded="true" />
-                <element signature="e#2385#2421#0" expanded="true" />
-                <element signature="e#2470#2506#0" expanded="true" />
-                <element signature="e#4521#4540#0" expanded="true" />
-                <element signature="e#4577#4596#0" expanded="true" />
-                <element signature="e#4664#4686#0" expanded="true" />
-                <element signature="e#4753#4775#0" expanded="true" />
+                <element signature="e#917#950#0" expanded="true" />
+                <element signature="e#994#1027#0" expanded="true" />
+                <element signature="e#1457#1475#0" expanded="true" />
+                <element signature="e#2347#2387#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -56,22 +47,28 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="styles.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/XYZReader/src/main/res/values/styles.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="495">
-              <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="colors.xml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="colors.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/XYZReader/src/main/res/values/colors.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="375">
               <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ArticleListActivity.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/XYZReader/src/main/java/com/example/xyzreader/ui/ArticleListActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="59" column="56" lean-forward="false" selection-start-line="59" selection-start-column="56" selection-end-line="59" selection-end-column="56" />
+              <folding>
+                <element signature="e#3145#3507#0" expanded="true" />
+                <element signature="e#3506#3507#0" expanded="true" />
+                <element signature="e#4006#4060#0" expanded="true" />
+                <element signature="e#5021#5321#0" expanded="true" />
+                <element signature="e#5320#5321#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -107,6 +104,7 @@
       <find>mPhotoContainer</find>
       <find>a</find>
       <find>adf</find>
+      <find>toolbarContainerView</find>
     </findStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$/XYZReader/src/main/java/com/example/xyzreader/ui</dir>
@@ -1975,10 +1973,12 @@
       <list>
         <option value="$PROJECT_DIR$/XYZReader/build.gradle" />
         <option value="$PROJECT_DIR$/XYZReader/src/main/res/drawable/photo_background_protection.xml" />
-        <option value="$PROJECT_DIR$/XYZReader/src/main/res/values/colors.xml" />
         <option value="$PROJECT_DIR$/XYZReader/src/main/res/values-v21/styles.xml" />
+        <option value="$PROJECT_DIR$/XYZReader/src/main/java/com/example/xyzreader/ui/ArticleListActivity.java" />
         <option value="$PROJECT_DIR$/XYZReader/src/main/res/layout/fragment_article_detail.xml" />
         <option value="$PROJECT_DIR$/XYZReader/src/main/res/values/styles.xml" />
+        <option value="$PROJECT_DIR$/XYZReader/src/main/res/layout/activity_article_list.xml" />
+        <option value="$PROJECT_DIR$/XYZReader/src/main/res/values/colors.xml" />
       </list>
     </option>
   </component>
@@ -2126,7 +2126,7 @@
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="sync.plugin.last.upgrade.timestamp" value="1536290843726" />
-    <property name="device.picker.selection" value="Nexus_5X_API_27" />
+    <property name="device.picker.selection" value="4a5f25b8" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -2211,7 +2211,7 @@
       <option name="ACTIVITY_CLASS" value="" />
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1536297043930" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1536299350589" />
       </method>
     </configuration>
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Instrumented Tests">
@@ -2259,7 +2259,7 @@
       </Profilers>
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1536297043931" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1536299350589" />
       </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -2442,7 +2442,7 @@
       <option name="ACTIVITY_CLASS" value="" />
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1536297043931" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1536299350590" />
       </method>
     </configuration>
     <list size="1">
@@ -2557,14 +2557,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/XYZReader/src/main/java/com/example/xyzreader/ui/ArticleListActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="113" column="20" lean-forward="false" selection-start-line="113" selection-start-column="20" selection-end-line="113" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/XYZReader/src/main/res/values/macro_layout.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -2634,45 +2626,82 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/.android/build-cache/c5580ac72d6ce3b3692249045febbfe9dfc6a068/output/res/values/values.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="109" column="1273" lean-forward="false" selection-start-line="109" selection-start-column="1273" selection-end-line="109" selection-end-column="1273" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XYZReader/src/main/res/layout/list_item_article.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-33">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XYZReader/src/main/res/layout/fragment_article_detail.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="553">
+          <caret line="97" column="40" lean-forward="false" selection-start-line="97" selection-start-column="40" selection-end-line="97" selection-end-column="40" />
+          <folding>
+            <element signature="e#1793#3532#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XYZReader/src/main/res/values/styles.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="32" column="21" lean-forward="false" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XYZReader/src/main/java/com/example/xyzreader/ui/ArticleListActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="59" column="56" lean-forward="false" selection-start-line="59" selection-start-column="56" selection-end-line="59" selection-end-column="56" />
+          <folding>
+            <element signature="e#3145#3507#0" expanded="true" />
+            <element signature="e#3506#3507#0" expanded="true" />
+            <element signature="e#4006#4060#0" expanded="true" />
+            <element signature="e#5021#5321#0" expanded="true" />
+            <element signature="e#5320#5321#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XYZReader/src/main/res/layout/activity_article_list.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="55" column="72" lean-forward="false" selection-start-line="55" selection-start-column="72" selection-end-line="55" selection-end-column="72" />
+          <folding>
+            <element signature="e#917#950#0" expanded="true" />
+            <element signature="e#994#1027#0" expanded="true" />
+            <element signature="e#1457#1475#0" expanded="true" />
+            <element signature="e#2347#2387#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/XYZReader/src/main/res/values/colors.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
           <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
           <folding />
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/XYZReader/src/main/res/values/styles.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/XYZReader/src/main/res/layout/fragment_article_detail.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="593">
-          <caret line="97" column="30" lean-forward="false" selection-start-line="97" selection-start-column="30" selection-end-line="97" selection-end-column="30" />
-          <folding>
-            <element signature="e#949#977#0" expanded="true" />
-            <element signature="e#1147#1175#0" expanded="true" />
-            <element signature="e#1743#1774#0" expanded="true" />
-            <element signature="e#1793#3532#0" expanded="false" />
-            <element signature="e#2156#2190#0" expanded="true" />
-            <element signature="e#2232#2266#0" expanded="true" />
-            <element signature="e#2306#2342#0" expanded="true" />
-            <element signature="e#2385#2421#0" expanded="true" />
-            <element signature="e#2470#2506#0" expanded="true" />
-            <element signature="e#4521#4540#0" expanded="true" />
-            <element signature="e#4577#4596#0" expanded="true" />
-            <element signature="e#4664#4686#0" expanded="true" />
-            <element signature="e#4753#4775#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer2">
-        <state />
       </provider>
     </entry>
   </component>

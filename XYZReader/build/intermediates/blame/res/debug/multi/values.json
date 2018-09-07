@@ -1043,7 +1043,14 @@
                     "endOffset": 5958
                 },
                 "from": {
-                    "file": "/Users/mimiliu/Desktop/Android Dev/material-design/XYZReader/src/main/res/values/colors.xml"
+                    "file": "/Users/mimiliu/Desktop/Android Dev/material-design/XYZReader/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 856,
+                        "endColumn": 46,
+                        "endOffset": 898
+                    }
                 }
             },
             {
@@ -1055,7 +1062,14 @@
                     "endOffset": 6006
                 },
                 "from": {
-                    "file": "/Users/mimiliu/Desktop/Android Dev/material-design/XYZReader/src/main/res/values/colors.xml"
+                    "file": "/Users/mimiliu/Desktop/Android Dev/material-design/XYZReader/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 755,
+                        "endColumn": 47,
+                        "endOffset": 798
+                    }
                 }
             },
             {
@@ -1067,7 +1081,14 @@
                     "endOffset": 6059
                 },
                 "from": {
-                    "file": "/Users/mimiliu/Desktop/Android Dev/material-design/XYZReader/src/main/res/values/colors.xml"
+                    "file": "/Users/mimiliu/Desktop/Android Dev/material-design/XYZReader/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 803,
+                        "endColumn": 52,
+                        "endOffset": 851
+                    }
                 }
             },
             {
@@ -8389,18 +8410,23 @@
                     "startOffset": 154166,
                     "endLine": 2161,
                     "endColumn": 12,
-                    "endOffset": 154476
+                    "endOffset": 154487
                 },
                 "from": {
-                    "file": "/Users/mimiliu/Desktop/Android Dev/material-design/XYZReader/src/main/res/values/styles.xml",
-                    "position": {
-                        "startLine": 25,
-                        "startColumn": 4,
-                        "startOffset": 920,
-                        "endLine": 30,
-                        "endColumn": 12,
-                        "endOffset": 1230
-                    }
+                    "file": "/Users/mimiliu/Desktop/Android Dev/material-design/XYZReader/src/main/res/values/styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 2162,
+                    "startColumn": 4,
+                    "startOffset": 154492,
+                    "endLine": 2164,
+                    "endColumn": 12,
+                    "endOffset": 154597
+                },
+                "from": {
+                    "file": "/Users/mimiliu/Desktop/Android Dev/material-design/XYZReader/src/main/res/values/styles.xml"
                 }
             }
         ]

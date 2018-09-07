@@ -2,31 +2,13 @@
 <items version="2" >
 
     <item
-        is-multidex="true"
-        jar="/Users/mimiliu/Desktop/Android Dev/material-design/XYZReader/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="c323c36ecc68965c4cfb460f7721113d2b61ed03">
-        <dex dex="/Users/mimiliu/Desktop/Android Dev/material-design/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_201e133719ebc232a35ce0b38f5be79339337e40/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/mimiliu/Desktop/Android Dev/material-design/XYZReader/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="8e3dc43950e4403816f4eb4dd17051b7fd1ab9a8">
-        <dex dex="/Users/mimiliu/Desktop/Android Dev/material-design/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_a7076d29455accc4dcaaecc14222a17a44b49abd/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
+        is-multidex="false"
         jar="/Users/mimiliu/Desktop/Android Dev/material-design/XYZReader/libs/volley.jar"
-        jumboMode="true"
+        jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
-        <dex dex="/Users/mimiliu/Desktop/Android Dev/material-design/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/2/volley_9ca2bfdaa44c78443d15422ee58592ed4dc1db86/classes.dex" />
+        <dex dex="/Users/mimiliu/Desktop/Android Dev/material-design/XYZReader/build/intermediates/pre-dexed/debug/volley_9ca2bfdaa44c78443d15422ee58592ed4dc1db86.jar" />
     </item>
 
 </items>
