@@ -1,7 +1,0 @@
-#Fri Sep 07 16:53:02 PDT 2018
-base.0=/Users/mimiliu/Desktop/Android Dev/material-design/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_201e133719ebc232a35ce0b38f5be79339337e40
-renamed.1=classes.dex
-renamed.0=classes2.dex
-file.1=/Users/mimiliu/Desktop/Android Dev/material-design/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_a7076d29455accc4dcaaecc14222a17a44b49abd/classes.dex
-base.1=/Users/mimiliu/Desktop/Android Dev/material-design/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_a7076d29455accc4dcaaecc14222a17a44b49abd
-file.0=/Users/mimiliu/Desktop/Android Dev/material-design/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_201e133719ebc232a35ce0b38f5be79339337e40/classes.dex
