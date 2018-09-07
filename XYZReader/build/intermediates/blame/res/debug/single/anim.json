@@ -44,12 +44,12 @@
         "source": "/Users/mimiliu/.android/build-cache/c5580ac72d6ce3b3692249045febbfe9dfc6a068/output/res/anim/abc_fade_out.xml"
     },
     {
-        "merged": "/Users/mimiliu/Desktop/Android Dev/material-design/XYZReader/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
-        "source": "/Users/mimiliu/.android/build-cache/c5580ac72d6ce3b3692249045febbfe9dfc6a068/output/res/anim/abc_slide_out_bottom.xml"
-    },
-    {
         "merged": "/Users/mimiliu/Desktop/Android Dev/material-design/XYZReader/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_in.xml",
         "source": "/Users/mimiliu/.android/build-cache/afe56b4fbaa213429a80117f277ca323f9b4ff4e/output/res/anim/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/Users/mimiliu/Desktop/Android Dev/material-design/XYZReader/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/mimiliu/.android/build-cache/c5580ac72d6ce3b3692249045febbfe9dfc6a068/output/res/anim/abc_slide_out_bottom.xml"
     },
     {
         "merged": "/Users/mimiliu/Desktop/Android Dev/material-design/XYZReader/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",

@@ -10,6 +10,7 @@ import android.database.Cursor;
 import android.os.Bundle;
 import android.support.v4.widget.SwipeRefreshLayout;
 import android.support.v7.app.ActionBarActivity;
+import android.support.v7.widget.GridLayoutManager;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
 import android.support.v7.widget.StaggeredGridLayoutManager;
@@ -115,7 +116,14 @@ public class ArticleListActivity extends ActionBarActivity implements
         mRecyclerView.setAdapter(adapter);
         LinearLayoutManager lm =
                 new LinearLayoutManager(this);
-        mRecyclerView.setLayoutManager(lm);
+        GridLayoutManager glm =
+                new GridLayoutManager(this, 2);
+        boolean tabletSize = getResources().getBoolean(R.bool.isTablet);
+        if (tabletSize) {
+            mRecyclerView.setLayoutManager(glm);
+        } else {
+            mRecyclerView.setLayoutManager(lm);
+        }
     }
 
     @Override

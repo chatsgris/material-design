@@ -1,4 +1,4 @@
-#Thu Sep 06 20:34:24 PDT 2018
+#Fri Sep 07 16:53:02 PDT 2018
 base.0=/Users/mimiliu/Desktop/Android Dev/material-design/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2
 renamed.0=classes.dex
 file.0=/Users/mimiliu/Desktop/Android Dev/material-design/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex

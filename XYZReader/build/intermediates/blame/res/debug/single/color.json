@@ -60,12 +60,12 @@
         "source": "/Users/mimiliu/.android/build-cache/c5580ac72d6ce3b3692249045febbfe9dfc6a068/output/res/color/abc_hint_foreground_material_light.xml"
     },
     {
-        "merged": "/Users/mimiliu/Desktop/Android Dev/material-design/XYZReader/build/intermediates/res/merged/debug/color/abc_tint_btn_checkable.xml",
-        "source": "/Users/mimiliu/.android/build-cache/c5580ac72d6ce3b3692249045febbfe9dfc6a068/output/res/color/abc_tint_btn_checkable.xml"
-    },
-    {
         "merged": "/Users/mimiliu/Desktop/Android Dev/material-design/XYZReader/build/intermediates/res/merged/debug/color/design_tint_password_toggle.xml",
         "source": "/Users/mimiliu/.android/build-cache/afe56b4fbaa213429a80117f277ca323f9b4ff4e/output/res/color/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/Users/mimiliu/Desktop/Android Dev/material-design/XYZReader/build/intermediates/res/merged/debug/color/abc_tint_btn_checkable.xml",
+        "source": "/Users/mimiliu/.android/build-cache/c5580ac72d6ce3b3692249045febbfe9dfc6a068/output/res/color/abc_tint_btn_checkable.xml"
     },
     {
         "merged": "/Users/mimiliu/Desktop/Android Dev/material-design/XYZReader/build/intermediates/res/merged/debug/color/abc_tint_seek_thumb.xml",

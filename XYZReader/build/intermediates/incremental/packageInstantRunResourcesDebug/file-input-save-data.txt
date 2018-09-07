@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Fri Sep 07 16:18:01 PDT 2018
+#Fri Sep 07 16:52:56 PDT 2018
 210.set=ANDROID_RESOURCE
 14.set=ANDROID_RESOURCE
 180.file=/Users/mimiliu/Desktop/Android Dev/material-design/XYZReader/build/intermediates/res/resources-debug.ap_/res/color-v11/abc_background_cache_hint_selector_material_dark.xml

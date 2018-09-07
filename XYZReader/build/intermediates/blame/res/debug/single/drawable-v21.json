@@ -4,12 +4,12 @@
         "source": "/Users/mimiliu/.android/build-cache/c5580ac72d6ce3b3692249045febbfe9dfc6a068/output/res/drawable-v21/notification_action_background.xml"
     },
     {
-        "merged": "/Users/mimiliu/Desktop/Android Dev/material-design/XYZReader/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
-        "source": "/Users/mimiliu/.android/build-cache/c5580ac72d6ce3b3692249045febbfe9dfc6a068/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
-    },
-    {
         "merged": "/Users/mimiliu/Desktop/Android Dev/material-design/XYZReader/build/intermediates/res/merged/debug/drawable-v21/design_password_eye.xml",
         "source": "/Users/mimiliu/.android/build-cache/afe56b4fbaa213429a80117f277ca323f9b4ff4e/output/res/drawable-v21/design_password_eye.xml"
+    },
+    {
+        "merged": "/Users/mimiliu/Desktop/Android Dev/material-design/XYZReader/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/mimiliu/.android/build-cache/c5580ac72d6ce3b3692249045febbfe9dfc6a068/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
     },
     {
         "merged": "/Users/mimiliu/Desktop/Android Dev/material-design/XYZReader/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",

@@ -251,10 +251,10 @@ public final class R {
     }
     public static final class bool {
         public static final int abc_action_bar_embed_tabs = 0x7f0a0000;
-        public static final int abc_allow_stacked_button_bar = 0x7f0a0002;
-        public static final int abc_config_actionMenuItemAllCaps = 0x7f0a0003;
-        public static final int abc_config_closeDialogWhenTouchOutside = 0x7f0a0004;
-        public static final int abc_config_showMenuShortcutsWhenKeyboardPresent = 0x7f0a0005;
+        public static final int abc_allow_stacked_button_bar = 0x7f0a0003;
+        public static final int abc_config_actionMenuItemAllCaps = 0x7f0a0004;
+        public static final int abc_config_closeDialogWhenTouchOutside = 0x7f0a0005;
+        public static final int abc_config_showMenuShortcutsWhenKeyboardPresent = 0x7f0a0006;
     }
     public static final class color {
         public static final int abc_background_cache_hint_selector_material_dark = 0x7f0d004f;

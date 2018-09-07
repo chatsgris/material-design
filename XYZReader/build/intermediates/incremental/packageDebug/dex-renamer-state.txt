@@ -1,4 +1,4 @@
-#Fri Sep 07 16:18:09 PDT 2018
+#Fri Sep 07 16:53:02 PDT 2018
 base.0=/Users/mimiliu/Desktop/Android Dev/material-design/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_201e133719ebc232a35ce0b38f5be79339337e40
 renamed.1=classes.dex
 renamed.0=classes2.dex

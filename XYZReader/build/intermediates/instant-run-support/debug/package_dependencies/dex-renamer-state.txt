@@ -1,4 +1,4 @@
-#Fri Sep 07 16:18:08 PDT 2018
+#Fri Sep 07 16:53:01 PDT 2018
 file.2=/Users/mimiliu/Desktop/Android Dev/material-design/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3382deccce0341d1a7bcc50d9f63f9db83c5f402/classes.dex
 base.2=/Users/mimiliu/Desktop/Android Dev/material-design/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3382deccce0341d1a7bcc50d9f63f9db83c5f402
 file.1=/Users/mimiliu/Desktop/Android Dev/material-design/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.1.2_e0c4bd4966de9aa6ad647870813c3d03ecf469de/classes.dex
