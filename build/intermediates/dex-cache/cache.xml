@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/mimiliu/Desktop/Android Dev/material-design/XYZReader/libs/volley.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="/Users/mimiliu/Desktop/Android Dev/material-design/XYZReader/build/intermediates/pre-dexed/debug/volley_9ca2bfdaa44c78443d15422ee58592ed4dc1db86.jar" />
+    </item>
+
+</items>

@@ -17,7 +17,11 @@
 
 <resources>
 
-    <style name="Theme.Bacon" parent="@style/Theme.AppCompat.Light.NoActionBar" />
+    <style name="Theme.Bacon" parent="@style/Theme.AppCompat.Light.NoActionBar" >
+        <item name="colorPrimary">@color/theme_primary</item>
+        <item name="colorPrimaryDark">@color/theme_primary_dark</item>
+        <item name="colorAccent">@color/theme_accent</item>
+    </style>
 
     <style name="Theme.Bacon.Detail">
         <item name="android:statusBarColor">@android:color/transparent</item>
@@ -25,13 +29,10 @@
 
     <style name="articleDetailStyle">
         <item name="android:textColor">@color/ltgray</item>
-        <item name="android:textColorLink">@color/theme_accent</item>
-        <item name="android:backgroundTint">@color/theme_accent</item>
         <item name="android:textSize">@dimen/detail_body_text_size</item>
     </style>
 
     <style name="mainStyle">
-        <item name="android:background">@color/theme_primary</item>
     </style>
 
 </resources>

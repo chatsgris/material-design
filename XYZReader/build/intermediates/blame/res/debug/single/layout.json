@@ -76,12 +76,12 @@
         "source": "/Users/mimiliu/.android/build-cache/afe56b4fbaa213429a80117f277ca323f9b4ff4e/output/res/layout/design_bottom_navigation_item.xml"
     },
     {
-        "merged": "/Users/mimiliu/Desktop/Android Dev/material-design/XYZReader/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
-        "source": "/Users/mimiliu/.android/build-cache/c5580ac72d6ce3b3692249045febbfe9dfc6a068/output/res/layout/abc_screen_content_include.xml"
-    },
-    {
         "merged": "/Users/mimiliu/Desktop/Android Dev/material-design/XYZReader/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
         "source": "/Users/mimiliu/.android/build-cache/c5580ac72d6ce3b3692249045febbfe9dfc6a068/output/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/mimiliu/Desktop/Android Dev/material-design/XYZReader/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/Users/mimiliu/.android/build-cache/c5580ac72d6ce3b3692249045febbfe9dfc6a068/output/res/layout/abc_screen_content_include.xml"
     },
     {
         "merged": "/Users/mimiliu/Desktop/Android Dev/material-design/XYZReader/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
